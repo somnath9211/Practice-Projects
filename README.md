@@ -1,2 +1,2 @@
-# 1st-project-Tribute
-My First Project Using HTML &amp; CSS.
+# Practice-project
+Project Using HTML &amp; CSS.
