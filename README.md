@@ -1,2 +1,2 @@
 # Practice-project
-Project Using HTML &amp; CSS.
+Creating an Interactive & Responsive Website using HTML, CSS, and JavaScript
